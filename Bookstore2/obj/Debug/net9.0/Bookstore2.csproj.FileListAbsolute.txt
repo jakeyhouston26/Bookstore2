@@ -156,3 +156,4 @@
 /Users/jacobhouston/Bookstore2/Bookstore2/obj/Debug/net9.0/Bookstore2.pdb
 /Users/jacobhouston/Bookstore2/Bookstore2/obj/Debug/net9.0/Bookstore2.genruntimeconfig.cache
 /Users/jacobhouston/Bookstore2/Bookstore2/obj/Debug/net9.0/ref/Bookstore2.dll
+/Users/jacobhouston/Bookstore2/Bookstore2/obj/Debug/net9.0/Bookstore2.sourcelink.json
